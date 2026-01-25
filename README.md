@@ -3,7 +3,7 @@
 Chemical Engineering student at UBC  
 Interested in materials and polymers, data-driven engineering, and design.
 
-### 🔬 Current Focus
+### 💡 Current Focus
 - Temperature-dependent polymers & biomaterials
 - Engineering design & process modeling
 - Data analysis and visualization
