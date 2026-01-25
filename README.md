@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**cfu11/cfu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chemical & Biological Engineering student at UBC  
+Interested in materials and polymers, data-driven engineering, and design.
 
-Here are some ideas to get you started:
+### 🔬 Current Focus
+- Temperature-dependent polymers & biomaterials
+- Engineering design & process modeling
+- Data analysis and visualization
+- Inclusive and human-centered design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools
+Python · NumPy · Pandas · C · MATLAB · SolidWorks · Onshape ·LaTeX · Excel · Git
+
+### 📌 Selected Projects
+- Micropipette Accessibility Tool
+- PBS Polymerization Process Model
+
+📫 Reach me at: cindyfu.ca@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/cfu11/
