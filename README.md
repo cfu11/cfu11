@@ -1,6 +1,6 @@
 ## Hi, I'm Cindy👋
 
-2nd year Chemical Engineering student at UBC  
+Chemical Engineering student at UBC  
 Interested in materials and polymers, data-driven engineering, and design.
 
 ### 🔬 Current Focus
