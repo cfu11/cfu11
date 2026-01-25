@@ -10,7 +10,7 @@ Interested in materials and polymers, data-driven engineering, and design.
 - Inclusive and human-centered design
 
 ### 🛠 Tools
-Python · NumPy · Pandas · C · MATLAB · SolidWorks · Onshape ·LaTeX · Excel · Git
+Python · NumPy · Pandas · C · MATLAB · SolidWorks · Onshape · LaTeX · Excel · Git
 
 ### 📌 Selected Projects
 - Micropipette Accessibility Tool
