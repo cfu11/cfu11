@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Cindy👋
 
 Chemical Engineering student at UBC  
 Interested in materials and polymers, data-driven engineering, and design.
