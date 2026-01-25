@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Chemical & Biological Engineering student at UBC  
+Chemical Engineering student at UBC  
 Interested in materials and polymers, data-driven engineering, and design.
 
 ### 🔬 Current Focus
