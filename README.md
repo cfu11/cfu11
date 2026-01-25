@@ -14,7 +14,7 @@ Python · NumPy · Pandas · C · MATLAB · SolidWorks · Onshape · LaTeX · Ex
 
 ### 📌 Selected Projects
 - Micropipette Accessibility Tool
-- PBS Polymerization Process Model
+- PBS Polymer Production
 
 📫 Reach me at: cindyfu.ca@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/cfu11/
