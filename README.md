@@ -1,16 +1,16 @@
 ## Hi, I'm Cindy👋
 
 Chemical Engineering student at UBC  
-Interested in materials and polymers, data-driven engineering, and design.
+Interested in human-centered design, data-driven engineering, and innovation.
 
 ### 💡 Current Focus
-- Temperature-dependent polymers & biomaterials
 - Engineering design & process modeling
+- Temperature-dependent polymers & biomaterials
 - Data analysis and visualization
 - Inclusive and human-centered design
 
 ### 🛠 Tools
-Python · NumPy · Pandas · C · MATLAB · SolidWorks · Onshape · LaTeX · Excel · Git
+Python · NumPy · Pandas · C · MATLAB · SolidWorks · Onshape · LaTeX · Excel · Git · Figma
 
 ### 📌 Selected Projects
 - Micropipette Accessibility Tool
