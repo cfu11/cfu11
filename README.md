@@ -5,9 +5,10 @@ Interested in human-centered design, data-driven engineering, and innovation.
 
 ### 💡 Current Focus
 - Engineering design & process modeling
-- Temperature-dependent polymers & biomaterials
-- Data analysis and visualization
 - Inclusive and human-centered design
+- Temperature-dependent polymers & biomaterials for sustainable futures
+- Data analysis and visualization
+
 
 ### 🛠 Tools
 Python · NumPy · Pandas · C · MATLAB · SolidWorks · Onshape · LaTeX · Excel · Git · Figma
