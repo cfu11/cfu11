@@ -7,7 +7,7 @@ Interested in human-centered design, data-driven engineering, and innovation.
 - Engineering design & process modeling
 - Technology and innovation
 - Inclusive and human-centered design
-- Temperature-dependent polymers & biomaterials for sustainable futures
+- Polymers & biomaterials for sustainable futures
 - Data analysis and visualization
 
 
